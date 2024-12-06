@@ -5,6 +5,6 @@
 - 📫 My email is and.cypher@pm.me
   
 <!---
-Yaankel/Yaankel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yaankel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
