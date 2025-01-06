@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yaankel
+- 👋 Hi, I’m @Yehudad
 - 👀 I’m interested in learn more about Cybersecurity
 - 🌱 I’m just starting my Bachelor in this field
 - 💞️ I’m looking to collaborate on entry level positions to get more experience and knowledge
